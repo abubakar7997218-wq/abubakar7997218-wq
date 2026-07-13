@@ -5,7 +5,7 @@
 Building real-world software — from systems and games to web apps and mobile applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-abubakar-7ab89a3a2)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar7997218@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-abubakar7997218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar7997218@gmail.com)
 
 ---
 
@@ -166,8 +166,8 @@ A web-based tool to calculate GPA based on grades and credit hours.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-abubakar-7ab89a3a2)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar7997218@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-abubakar-7ab89a3a2)
+[![Gmail](https://img.shields.io/badge/Gmail-abubakar7997218%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar7997218@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abubakar7997218-wq)
 
 ---
